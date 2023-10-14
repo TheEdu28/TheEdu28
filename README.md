@@ -11,7 +11,7 @@
 
 <br><br>
 
-- 🏫 Soy `Estudiante` en la [Facultad de Telemática](https://telematicanet.ucol.mx/) en la [Universidad de Colima](https://www.ucol.mx/)).
+- 🏫 Soy `Estudiante` en la [Facultad de Telemática](https://telematicanet.ucol.mx/) en la [Universidad de Colima](https://www.ucol.mx/).
 - 👻 Me gusta el `Ajedrez`.
 - 🧑‍🎓 Estoy aprendiendo a `programar` y estudiando `Ingeniería de Software`.
 
